@@ -3,9 +3,9 @@ When launching the website you'll see the total cases, recovered and deaths in w
 
 
 
-![Picture 1](/images/capture1.png)
+![Picture 1](./src/images/capture1.png)
 
-![Picture 2](/images/capture2.png)
+![Picture 2](./src/images/capture2.png)
 
 Here's the live website
 [Website](https://world-tracker-covid19.herokuapp.com)
